@@ -1,6 +1,6 @@
-[My Blog](https://tiantiansayhi.github.io/)
+[My Blog](https://tiantiansayhi.github.io)
 ================================
-This blog is based on [Hux's work]. If you are interested in it, you can fork from [this](https://github.com/Huxpro/huxpro.github.io/tree/master).  
+This blog is based on Hux's work. If you are interested in it, you can fork from [this](https://github.com/Huxpro/huxpro.github.io/tree/master).  
 Original Readme as follows:
 
 
