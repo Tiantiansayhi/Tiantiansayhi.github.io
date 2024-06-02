@@ -1,9 +1,7 @@
-[Hux Blog](https://huangxuan.me)
+[My Blog](https://tiantiansayhi.github.io/)
 ================================
-
-> I never expected this to become popular.
-
-![](http://huangxuan.me/img/blog-desktop.jpg)
+This blog is based on [Hux's work]. If you are interested in it, you can fork from [this](https://github.com/Huxpro/huxpro.github.io/tree/master).  
+Original Readme as follows:
 
 
 [User Manual 👉](_doc/Manual.md)
