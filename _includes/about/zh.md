@@ -1,5 +1,6 @@
 Hello!我是王田田.目前是哈尔滨工业大学（深圳）机器人感知与智能实验室博士研究生,主要研究方向是医疗机器人,人形机器人以及深度学习.
-我的研究会在[Github](https://github.com/Tiantiansayhi)上开源,欢迎感兴趣的研究者一起交流学习.
+
+我的研究会在[Github](https://github.com/Tiantiansayhi)上开源,欢迎感兴趣的研究者一起交流学习:tiantianw25@gmail.com.
 
 ##### 教育经历
 
@@ -16,9 +17,13 @@ Hello!我是王田田.目前是哈尔滨工业大学（深圳）机器人感知�
 ##### 论文
 
 [Robust Real-Time Motion Retargeting via Neural Latent Prediction](https://ieeexplore.ieee.org/abstract/document/10342022)
+
 Tiantian Wang, Haodong Zhang, Lu Chen, Dongqi Wang, Yue Wang*, Rong Xiong
+
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 3696-3703.
 
 [Learning from demonstration using improved dynamic movement primitives](https://ieeexplore.ieee.org/abstract/document/9516425)
+
 Tiantian Wang, Liang Yan*, Gang Wang, Xiaoshan Gao, Nannan Du, I-Ming Chen
+
 2021 IEEE 16th Conference on Industrial Electronics and Applications (ICIEA). IEEE, 2021: 2130-2135.
