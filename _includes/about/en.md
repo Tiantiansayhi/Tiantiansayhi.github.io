@@ -5,7 +5,7 @@ If you are interested in my research or would like to have a talk, feel free to 
 ##### Education Experience
 
 - 2024.3 - now Harbin Institute of Technology, Shenzhen. Ph.D student of Mechanical Engineering. Supervisor: Jiaole Wang
-- 2022.4 - 2023.1  Zhejiang University. Research assistant. Supervisor: Rong Xiong
+- 2022.4 - 2023.3  Zhejiang University. Research assistant. Supervisor: Rong Xiong
 - 2019.9 - 2022.7  Politecnico di Milano. Master of Electrical Engineering. Master's double degree
 - 2019.9 - 2022.1  Beihang University. Master of Control Engineering. Supervisor: Liang Yan
 - 2015.9 - 2019.7  Northwestern Polytechnical University. Bachelor of Detection Guidance and Control Technology
