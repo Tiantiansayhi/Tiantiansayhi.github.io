@@ -15,6 +15,8 @@ Hello！我是王田田，目前是哈尔滨工业大学（深圳）机器人感
 
 ##### 论文
 
+##### 会议
+
 [Robust Real-Time Motion Retargeting via Neural Latent Prediction](https://ieeexplore.ieee.org/abstract/document/10342022)  
 **Tiantian Wang**, Haodong Zhang, Lu Chen, Dongqi Wang, Yue Wang*, Rong Xiong  
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 3696-3703.
