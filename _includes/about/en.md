@@ -16,8 +16,7 @@ If you are interested in my research or would like to have a talk, feel free to 
 - 2023.6 - 2024.3  The 10th research institute of CETC. Algorithm Engineer.
 
 ##### Pulication
-
-## Conference paper
+##### Conference paper
 [Robust Real-Time Motion Retargeting via Neural Latent Prediction](https://ieeexplore.ieee.org/abstract/document/10342022)  
 **Tiantian Wang**, Haodong Zhang, Lu Chen, Dongqi Wang, Yue Wang*, Rong Xiong  
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 3696-3703.
