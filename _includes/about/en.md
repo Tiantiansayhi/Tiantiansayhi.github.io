@@ -2,7 +2,7 @@ Hello! I am Tiantian Wang. I’m currently a Ph.D. candidate of Harbin Institube
 I open source most of my research, please check my [Github](https://github.com/Tiantiansayhi) for more infomation.  
 If you are interested in my research or would like to have a talk, feel free to drop me an email:tiantianw25@gmail.com.
 
-#### Education Experience
+### Education Experience
 
 - 2024.3 - now Harbin Institute of Technology, Shenzhen. Ph.D student of Mechanical Engineering. Supervisor: Jiaole Wang
 - 2022.4 - 2023.3  Zhejiang University. Research assistant. Supervisor: Rong Xiong
@@ -11,12 +11,12 @@ If you are interested in my research or would like to have a talk, feel free to 
 - 2015.9 - 2019.7  Northwestern Polytechnical University. Bachelor of Detection Guidance and Control Technology
 
 
-#### Working Experience
+### Working Experience
 
 - 2023.6 - 2024.3  The 10th research institute of CETC. Algorithm Engineer.
 
-#### Pulication
-##### Conference paper
+### Pulication
+#### Conference paper
 [Robust Real-Time Motion Retargeting via Neural Latent Prediction](https://ieeexplore.ieee.org/abstract/document/10342022)  
 **Tiantian Wang**, Haodong Zhang, Lu Chen, Dongqi Wang, Yue Wang*, Rong Xiong  
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 3696-3703.
