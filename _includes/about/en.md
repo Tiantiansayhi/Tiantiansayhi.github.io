@@ -18,6 +18,10 @@ If you are interested in my research or would like to have a talk, feel free to 
 ### Pulication
 
 #### Conference paper
+[Robust Control of Hand-held Concentric-tube Robot Based on Nonlinear Disturbance Observer](https://www.sciencedirect.com/science/article/pii/S1877050924032289)
+**Tiantian Wang**, Chao Zhang, Botao Lin, Erli Lyu, Shuang Song, Jiaole Wang
+Procedia Computer Science, 2024, 250: 122-128.
+
 [Robust Real-Time Motion Retargeting via Neural Latent Prediction](https://ieeexplore.ieee.org/abstract/document/10342022)  
 **Tiantian Wang**, Haodong Zhang, Lu Chen, Dongqi Wang, Yue Wang*, Rong Xiong  
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 3696-3703.
