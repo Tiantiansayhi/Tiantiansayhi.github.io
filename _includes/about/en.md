@@ -18,10 +18,25 @@ If you are interested in my research or would like to have a talk, feel free to 
 ### Pulication
 
 #### Journal paper
+[Robotic intracorporeal palpation with a miniature force-sensing probe for minimally invasive surgery](https://ieeexplore.ieee.org/document/11040015)
+Tangyou Liu, Xiaowen Zhang, Chao Zhang, **Tiantian Wang**, Shuang Song, Jiaole Wang*, Liao Wu*
+IEEE Transactions on Instrumentation and Measurement.
 
 #### Conference paper
+[Adjusting Tissue Puncture Omnidirectionally In Situ with Pneumatic Rotatable Biopsy Mechanism and Hierarchical Airflow Management in Tortuous Luminal Pathways](https://arxiv.org/pdf/2506.03017)
+Botao Lin, Tinghua Zhang, Sishen Yuan, **Tiantian Wang**, Jiaole Wang, Wu Yuan, Hongliang Ren*
+2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Accepted)
+
+[Towards 3D Reconstruction With Variable-Baseline Binocular Endoscope for Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/10907645)
+Jinrui Cui, Chao Zhang, **Tiantian Wang**, Shuang Song*, Jiaole Wang*
+2024 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2024: 2288-2293.
+
+[Robotic arm trajectory tracking control based on RBF neural network estimation of dynamic parameters](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.2847)
+Nannan Du, Liang Yan*, **Tiantian Wang**, Suwan Bu, Chris Gerada, Xiaoshuai Liu, Xuxu Yang, Haien Li
+CSAA/IET International Conference on Aircraft Utility Systems (AUS 2024), 2024, 2024(13): 260-264
+
 [Robust Control of Hand-held Concentric-tube Robot Based on Nonlinear Disturbance Observer](https://www.sciencedirect.com/science/article/pii/S1877050924032289)
-**Tiantian Wang**, Chao Zhang, Botao Lin, Erli Lyu, Shuang Song, Jiaole Wang
+**Tiantian Wang**, Chao Zhang, Botao Lin, Erli Lyu, Shuang Song*, Jiaole Wang*
 Procedia Computer Science, 2024, 250: 122-128.
 
 [Robust Real-Time Motion Retargeting via Neural Latent Prediction](https://ieeexplore.ieee.org/abstract/document/10342022)  
