@@ -20,12 +20,12 @@ If you are interested in my research or would like to have a talk, feel free to 
 #### Journal paper
 [Robotic intracorporeal palpation with a miniature force-sensing probe for minimally invasive surgery](https://ieeexplore.ieee.org/document/11040015)
 Tangyou Liu, Xiaowen Zhang, Chao Zhang, **Tiantian Wang**, Shuang Song, Jiaole Wang*, Liao Wu*
-IEEE Transactions on Instrumentation and Measurement.
+IEEE Transactions on Instrumentation and Measurement. (Accepted)
 
 #### Conference paper
 [Adjusting Tissue Puncture Omnidirectionally In Situ with Pneumatic Rotatable Biopsy Mechanism and Hierarchical Airflow Management in Tortuous Luminal Pathways](https://arxiv.org/pdf/2506.03017)
 Botao Lin, Tinghua Zhang, Sishen Yuan, **Tiantian Wang**, Jiaole Wang, Wu Yuan, Hongliang Ren*
-2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Accepted)
+2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Accepted)
 
 [Towards 3D Reconstruction With Variable-Baseline Binocular Endoscope for Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/10907645)
 Jinrui Cui, Chao Zhang, **Tiantian Wang**, Shuang Song*, Jiaole Wang*
