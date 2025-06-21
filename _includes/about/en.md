@@ -17,6 +17,8 @@ If you are interested in my research or would like to have a talk, feel free to 
 
 ### Pulication
 
+#### Journal paper
+
 #### Conference paper
 [Robust Control of Hand-held Concentric-tube Robot Based on Nonlinear Disturbance Observer](https://www.sciencedirect.com/science/article/pii/S1877050924032289)
 **Tiantian Wang**, Chao Zhang, Botao Lin, Erli Lyu, Shuang Song, Jiaole Wang
