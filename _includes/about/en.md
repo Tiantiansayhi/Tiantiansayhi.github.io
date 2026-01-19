@@ -21,7 +21,7 @@ If you are interested in my research or would like to have a talk, feel free to 
 ##### 2025
 [1][Robotic intracorporeal palpation with a miniature force-sensing probe for minimally invasive surgery](https://ieeexplore.ieee.org/document/11040015)  
 Tangyou Liu, Xiaowen Zhang, Chao Zhang, **Tiantian Wang**, Shuang Song, Jiaole Wang*, Liao Wu*,
-IEEE Transactions on Instrumentation and Measurement. (Accepted)
+IEEE Transactions on Instrumentation and Measurement. 
 
 #### Conference paper
 ##### 2025
@@ -54,7 +54,7 @@ Procedia Computer Science, 2024, 250: 122-128.
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023: 3696-3703.
 
 ##### 2021
-[2][Toward Obstacle Avoidance for Mobile Robots Using Deep Reinforcement Learning Algorithm]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9516114](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9516114)
+[2][Toward Obstacle Avoidance for Mobile Robots Using Deep Reinforcement Learning Algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9516114)  
 Xiaoshan Gao, Liang Yan*, Gang Wang, **Tiantian Wang**, Nannan Du and Chris Gerada, 2021 IEEE 16th Conference on Industrial Electronics and Applications (ICIEA), Chengdu, China, 2021, pp. 2136-2139.
 
 [1][Learning from demonstration using improved dynamic movement primitives](https://ieeexplore.ieee.org/abstract/document/9516425)  
